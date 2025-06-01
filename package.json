@@ -1,23 +1,23 @@
 {
-  "name": "koishi-plugin-market-info",
+  "name": "koishi-plugin-market-info-pro",
   "description": "Koishi plugin market information",
-  "version": "2.1.0",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "lib",
     "dist"
   ],
-  "author": "Shigma <shigma10826@gmail.com>",
+  "author": "HydroGest <2445691453@qq.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koishijs/koishi-plugin-market-info.git"
+    "url": "git+https://github.com/hydrogest/koishi-plugin-market-info-pro.git"
   },
   "bugs": {
     "url": "https://github.com/koishijs/koishi-plugin-market-info/issues"
   },
-  "homepage": "https://github.com/koishijs/koishi-plugin-market-info#readme",
+  "homepage": "https://github.com/hydrogest/koishi-plugin-market-info-pro#readme",
   "scripts": {
     "build": "atsc -b"
   },
